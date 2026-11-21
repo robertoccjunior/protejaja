@@ -1,6 +1,9 @@
 # 🛡️ ProtejaJÁ — Plataforma Cidadã de Denúncias Seguras
 
-**Projeto Integrador** de utilidade pública com **abrangência nacional (todos os 5.570 municípios do Brasil)** para registro seguro de ocorrências contra estabelecimentos, produtos e serviços, aliado a um **Portal de Notícias e Alertas**.
+> **Demo Online:** [Acessar ProtejaJÁ no Render](https://projeto-cu6w.onrender.com/home) · [Apresentação Interativa](/apresentacao)  
+> *(Nota: hospedado no plano gratuito do Render — o primeiro acesso após inatividade pode levar ~30–50 segundos para iniciar o contêiner.)*
+
+**Projeto Integrador** full-stack de utilidade pública com **abrangência nacional (todos os 5.570 municípios do Brasil)** para registro seguro de ocorrências contra estabelecimentos, produtos, serviços e golpes, aliado a **engajamento comunitário** (*"Também fui afetado"*, ranking e comentários) e a um **Portal de Notícias e Alertas**.
 
 ---
 
